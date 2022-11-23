@@ -22,13 +22,13 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" /> we’ll handle
-        the money.
+        You do the business, <br className="sm:block hidden" /> we’ll optimize your
+        workflow.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+        The tool will help you diagnose patient, by answering questions that generates the diagnosis from an advanced algorithm.
+        The diagnosis comes with an video from our experts explaining the diagnosis in full detail.
+        A document with the answered question to get the diagnosis is provided to make documentation easier.
       </p>
 
       <Button styles={`mt-10`} />
