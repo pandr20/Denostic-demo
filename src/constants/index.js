@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Advanced algorithm",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Our expert developed algorithm for easy, reliable and fast diagnosis",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Videos",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Videos from expert explaining the diagnosis, to improve patient workflow",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Document",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Document with the answers from questions to determine diagnosis, for documentation",
   },
 ];
 
@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "Denostic is an tool, that help us improve patient workflow. Our patient are happy with a great explanation of their diagnosis ",
     name: "Herman Jensen",
-    title: "Founder & Leader",
+    title: "Dentist",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "Denostic makes your life easier. We can have more breathing room in our day or take more patients because of the added time, we now have",
     name: "Steve Mark",
-    title: "Founder & Leader",
+    title: "Dentist",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Denostic helps us get a fast diagnosis, so we can focuse on providing good patient service. The video have improved patient undestanding about their diagnosis",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Dentist",
     img: people03,
   },
 ];
@@ -73,18 +73,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Users interested",
+    value: "100.000+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Trusted expert",
+    value: "Morten Worsøe",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Crowfunding",
+    value: "25.000+",
   },
 ];
 
