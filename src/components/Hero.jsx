@@ -2,6 +2,7 @@ import styles from "../style";
 import { discount, robot } from "../assets";
 import GetStarted from "./GetStarted";
 import tooth from "../assets/tooth.png";
+import demo from "../assets/demo-denostic.gif";
 
 const Hero = () => {
   return (
