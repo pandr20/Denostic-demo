@@ -8,8 +8,8 @@ const Billing = () => (
     <iframe
        		src="https://www.youtube.com/embed/eAhAXZ_k_2M"
             frameborder="0"
-            allowfullscreen
-            class="absolute top-0 left-0 w-full h-full"
+            allowFullScreen
+            class="w-full aspect-[4/3]"
         ></iframe>
       {/* gradient start */}
       <div className="absolute z-[3] -left-1/2 top-0 w-[50%] h-[50%] rounded-full white__gradient" />

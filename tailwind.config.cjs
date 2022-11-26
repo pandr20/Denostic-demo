@@ -10,6 +10,13 @@ module.exports = {
         dimWhite: "rgba(255, 255, 255, 0.7)",
         dimBlue: "rgba(9, 151, 124, 0.1)",
       },
+      aspectRatio: {
+        '4/3': '4 / 3',
+      },
+      variants: {
+        aspectRatio: ['responsive'],
+        extend: {},
+      },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
       },
@@ -23,5 +30,8 @@ module.exports = {
       xl: "1700px",
     },
   },
-  plugins: [require('@tailwindcss/aspect-ratio'),],
+  plugins: [
+    require('@tailwindcss/aspect-ratio'),
+    require("tailwindcss-responsive-embed"),
+  ],
 };
